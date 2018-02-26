@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Platzigram</string>
+    <string name="hint_pasword">Contraseña</string>
+    <string name="text_button_login">Entrar</string>
+    <string name="dont_have_account">¿No tienes cuenta?,</string>
+    <string name="create_here">crea una aquí</string>
+    <string name="title_activity_reference">ReferenceActivity</string>
+    <string name="hint_username">Nombre de Usuario</string>
+    <string name="hint_email">Correo</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_password_create_account">Contraseña</string>
+    <string name="hint_confirm_password">Confirmar Contraseña</string>
+    <string name="text_button_join_us">Únete</string>
+    <string name="activity_create_account_title">Crear Cuenta</string>
+    <string name="cardview_username">Uriel Ramírez</string>
+    <string name="first_word_cardview">Hace</string>
+    <string name="time_cardview_text">4 días</string>
+    <string name="likes_cardview">10 Me Gusta</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menu_search">Buscar</string>
+    <string name="menu_home">Inicio</string>
+    <string name="menu_user">Yo</string>
+    <string name="second_word_detail">Me Gusta</string>
+    <string name="title_image_detail">\"Todo copas en la playa\"</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet libero ut purus auctor ornare. Etiam nulla nibh, aliquet ut purus sed, pulvinar dapibus lectus. Nam turpis erat, imperdiet in semper vel, lobortis id massa. Morbi quis dolor id arcu pharetra aliquam. Morbi et ipsum et justo porttitor lobortis sit amet at diam. In a suscipit justo, at ultricies turpis. Morbi leo massa, finibus nec sagittis et, congue at tortor. Integer et neque sit amet velit rutrum rutrum. Mauris molestie dapibus leo et porttitor. Maecenas convallis et purus in faucibus. Pellentesque rhoncus feugiat justo ut interdum. Donec suscipit lorem vitae consequat facilisis. Maecenas non sem eu velit dignissim interdum. Vestibulum sollicitudin erat vel lorem ultrices posuere. Etiam ultrices ac ante sit amet sagittis.</string>
+    <string name="transition_name_card">transitionnamepicture</string>
+    <string name="search_query_hint">Buscar</string>
+</resources>
